@@ -1,0 +1,58 @@
+body {background-image: url(https://get.pxhere.com/photo/landscape-nature-sky-night-atmosphere-country-dark-evening-rural-scenic-aurora-outdoors-england-hdr-clouds-colors-stars-beautiful-silhouettes-midnight-geological-phenomenon-1202036.jpg) ;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      margin-left: auto;
+      margin-right: auto;
+        border:3px solid gray;
+        border-radius:16px;
+      display: block;
+      margin: 8px;
+}
+
+h1 {font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: xx-large;
+    color:purple;
+    font-style: italic;
+}
+
+nav li {color: white;   
+}
+
+nav ul {list-style-type:none;
+}
+
+nav ul li {display:inline;
+}
+
+p {color: white;
+   font-size: 16px;
+}
+
+
+ol li {color: white;
+       font-size: 16px;
+}
+
+h2 {font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color:purple;
+    font-style: italic;
+}
+
+h3 {font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color:purple;
+    font-style: italic;
+}
+
+h4 {font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color:purple;
+    font-style: italic;
+}
