@@ -11,11 +11,12 @@ body {background-image: url(https://get.pxhere.com/photo/landscape-nature-sky-ni
       margin: 8px;
 }
 
-h1 {font-family: "Poppins", sans-serif;
+h1 {font-family: Comic sans ms;
     font-weight: 700;
-    font-size: xx-large;
+    font-size: 50px;
     color:purple;
-    font-style: italic;
+    font-style: bold;
+    
 }
 
 nav li {color: white;   
@@ -28,31 +29,56 @@ nav ul li {display:inline;
 }
 
 p {color: white;
-   font-size: 16px;
+   font-size: 18px;
 }
 
 
 ol li {color: white;
-       font-size: 16px;
+       font-size: 17px;
 }
 
 h2 {font-family: "Poppins", sans-serif;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 27px;
     color:purple;
     font-style: italic;
 }
 
 h3 {font-family: "Poppins", sans-serif;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 27px;
     color:purple;
     font-style: italic;
 }
 
 h4 {font-family: "Poppins", sans-serif;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 27px;
+    color:purple;
+    font-style: italic;
+
+}
+
+ul li {font-size: 25px;
+}
+
+h5 {font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 27px;
+    color:purple;
+    font-style: italic;
+}
+
+h6 {font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 27px;
+    color:purple;
+    font-style: italic;
+}
+
+h7 {font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 27px;
     color:purple;
     font-style: italic;
 }
